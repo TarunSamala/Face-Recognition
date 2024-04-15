@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 # Load images and extract names, roll numbers, and emails from filenames
-image_folder = "Student Dataset/"
+image_folder = "./Student Dataset/"
 known_face_encodings = []
 known_faces_names = []
 
