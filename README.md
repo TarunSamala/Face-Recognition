@@ -41,7 +41,9 @@ python Recognition.py
 - Modify the Recognition.py file to adjust parameters such as camera index, recognition threshold, etc., as needed.
 - Ensure that the CSV file for storing attendance records is writable by the application.
 
+# There's a guide Attached to this Repository 
 
+The guid is for cmd/command prompt approach, the guide doesnt work for vscode or any other code editor approach.
 
 
 
