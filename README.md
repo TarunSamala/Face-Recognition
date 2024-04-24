@@ -21,6 +21,8 @@ git clone https://github.com/yourusername/face-recognition-attendance-system.git
 ```bash
 pip install -r requirements.txt
 ```
+
+if the installation doesnt work properly then direct to dlib-master folder and go through the README.md or ReadMeFirst.docx
 ## Navigate to the Script file:
 
 ```bash
@@ -30,10 +32,10 @@ cd Recognition
 ## Usage
 
 1. Prepare the dataset:
-    - Add images of students' faces to the "Student Dataset" folder. Each image file should be named in the format: Name_RollNo_Email.jpg.
+    - Add images of students' faces to the "photos" folder. Each image file should be named in the format: Name_RollNo_Email.jpg.
 2. Run the application:
 ```bash
-python Recognition.py
+python Attendance.py
 ```
 
 ## Configuration
