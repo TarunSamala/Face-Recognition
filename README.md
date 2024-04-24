@@ -23,11 +23,7 @@ pip install -r requirements.txt
 ```
 
 if the installation doesnt work properly then direct to dlib-master folder and go through the README.md or ReadMeFirst.docx
-## Navigate to the Script file:
 
-```bash
-cd Recognition
-```
 
 ## Usage
 
@@ -45,7 +41,7 @@ python Attendance.py
 
 # There's a guide Attached to this Repository 
 
-The guid is for cmd/command prompt approach, the guide doesnt work for vscode or any other code editor approach.
+The guide is for cmd/command prompt approach, the guide doesnt work for vscode or any other code editor approach.
 
 
 
